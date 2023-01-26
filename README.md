@@ -15,6 +15,7 @@ The expectations for this exercise are that you will
  - [ ] Add two asteroids to the Game scene
  - [ ] Script the ship so it can shoot bullets by instancing the Bullet scene
  - [ ] Use `move_and_slide` to control the ship's velocity and position
+ - [ ] Add get_input() to your gists
  - [ ] Edit the LICENSE and README.md
  - [ ] Commit and push your changes back to GitHub. Turn in the URL of your repository on Canvas.
 
